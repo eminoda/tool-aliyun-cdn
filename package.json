@@ -1,32 +1,32 @@
 {
-  "name": "tool-aliyun-cdn",
-  "version": "1.0.0",
-  "description": "aliyun cdn api tool",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/eminoda/tool-aliyun-cdn.git"
-  },
-  "keywords": [
-    "aliyun",
-    "cdn"
-  ],
-  "author": "eminoda",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/eminoda/tool-aliyun-cdn/issues"
-  },
-  "homepage": "https://github.com/eminoda/tool-aliyun-cdn#readme",
-  "dependencies": {
-    "extend2": "^1.0.0",
-    "is-type-of": "^1.2.1",
-    "moment": "^2.24.0",
-    "request": "^2.88.0"
-  },
-  "devDependencies": {
-    "jest": "^24.1.0"
-  }
+	"name": "tool-aliyun-cdn",
+	"version": "1.0.1",
+	"description": "aliyun cdn api tool",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/eminoda/tool-aliyun-cdn.git"
+	},
+	"keywords": [
+		"aliyun",
+		"cdn"
+	],
+	"author": "eminoda",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/eminoda/tool-aliyun-cdn/issues"
+	},
+	"homepage": "https://github.com/eminoda/tool-aliyun-cdn#readme",
+	"dependencies": {
+		"extend2": "^1.0.0",
+		"is-type-of": "^1.2.1",
+		"moment": "^2.24.0",
+		"request": "^2.88.0"
+	},
+	"devDependencies": {
+		"jest": "^24.1.0"
+	}
 }
