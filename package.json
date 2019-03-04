@@ -1,6 +1,6 @@
 {
 	"name": "tool-aliyun-cdn",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "aliyun cdn api tool",
 	"main": "index.js",
 	"scripts": {
