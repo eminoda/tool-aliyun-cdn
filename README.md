@@ -18,6 +18,7 @@
 2.  创建 AliyunCDN 对象
 
     ```js
+    const AliyunCDN = require('tool-aliyun-cdn');
     // https://usercenter.console.aliyun.com/
     const cdn = new AliyunCDN({
     	AccessKeyId: 'AccessKeyId', //阿里云颁发给用户的访问服务所用的密钥ID
